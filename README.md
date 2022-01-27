@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This is a demonstration repository for the spring 2022 section of CS 195.
+This is a demonstration repository for the spring 2022 section of CS 195 (Software Development Practicum).
 
 ## Author
 
